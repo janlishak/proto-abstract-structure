@@ -1,0 +1,8 @@
+jan-lishak type person
+jan-lishak +birthday 27/11/1999
+jan-lishak +email jano.lishak@gmail.com
+		   
+john-snow type person
+john-snow +birthday 23/12/1983
+john-snow +email john.snow@gmail.com
+
